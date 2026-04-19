@@ -1,3 +1,5 @@
+firefox not workiing !!!
+
 # comfyui-Popy
 copy &amp; paste button
 
