@@ -129,6 +129,6 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "MultilineStringNode": "Multiline String Input 📝",
-    "StringPreviewNode": "String Preview 👁️",
+    "MultilineStringNode": "Multiline String Input zk📝",
+    "StringPreviewNode": "String Preview zk👁️",
 }
