@@ -46,7 +46,7 @@ class MultilineStringNode:
                 "wrap_multiline": (
                     "BOOLEAN",
                     {
-                        "default": True,
+                        "default": False,
                         "label_on": "wrap: multiline",
                         "label_off": "wrap: inline",
                     },
